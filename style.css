@@ -1,0 +1,17 @@
+.css{
+	font-size: 20px;
+	color: #ffffff;
+	background-color: rgb(255,99,0);
+}
+table{
+	border-collapse: collapse;
+
+}
+th,td{
+	border:2px solid #ddd;
+	text-align: center;
+	padding: 10px;
+}
+tr:nth-child(even){
+	background-color: #ddd;
+}
